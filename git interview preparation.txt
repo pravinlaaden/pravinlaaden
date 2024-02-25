@@ -1,0 +1,6 @@
+
+
+git
+1. distributed version control system (DVCS) used for handling the development of small and large projects in a more efficient and neat manner.
+
+2. is used for tracking the project changes

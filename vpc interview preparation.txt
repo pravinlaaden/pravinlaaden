@@ -1,0 +1,17 @@
+zzvpc =A logically isolated virtual network in the AWS cloud. You define a VPC’s IP address space from a range you select.
+
+
+NAT Gateways are used to connect between instances of your private subnet with internet or other AWS services
+A highly available, managed Network Address Translation (NAT) service for your resources in a private subnet to access the Internet.
+
+
+VPC Endpoint=Enables Amazon S3 access from within your VPC without using an Internet gateway or NAT, and allows you to control the access using VPC endpoint policies.
+
+
+Subnetwork or subnet is a logical subdivision of an IP network. The practice of dividing a network into two or more networks is called subnetting. AWS provides two types of subnetting one is Public which allow the internet to access the machine and another is private which is hidden from the internet.
+
+
+igw=that allow communicate betweeen vpc and the internet 
+why igw =enable inbound and outbound access to the internet 
+
+SG=to manage access to resources that have similar functions and security requirements. 
